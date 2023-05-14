@@ -1,2 +1,2 @@
 # SQL-Hotel-Project
-I performed various queries on a hotel dataset to shwcase my SQL skills.
+I performe various queries on a hotel dataset to showcase my SQL skills.
